@@ -1,0 +1,22 @@
+/*
+Theme Name: Twenty Sixteen Child
+Theme URI: https://bemycareercoach.com
+Author: Clayton Collie of Codeable
+Author URI: https://claytoncollie.com
+Description: WordPress Twenty Sixteen child theme.
+Template: twentysixteen
+License: GNU General Public License v3
+License URI: https://www.gnu.org/licenses/gpl-3.0.html
+Version: 1.0.0
+Text Domain: twentysixteen-child
+*/
+
+.page-header-search-form {
+    padding-bottom: 3em;  
+}
+
+@media only screen and (min-width: 910px) {
+    .page-header-search-form {
+        display: none;
+    }
+}
