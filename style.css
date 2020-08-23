@@ -11,12 +11,12 @@ Version: 1.0.0
 Text Domain: twentysixteen-child
 */
 
-.page-header-search-form {
-    padding-bottom: 3em;  
+.menu-toggle {
+    width: 100%;
 }
 
 @media only screen and (min-width: 910px) {
-    .page-header-search-form {
+    .site-header-search-form {
         display: none;
     }
 }
