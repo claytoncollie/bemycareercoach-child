@@ -15,6 +15,11 @@ Text Domain: twentysixteen-child
     width: 100%;
 }
 
+body:not(.search-results) article:not(.type-page) .entry-content {
+    float: none;
+    width: 100%;
+}
+
 @media only screen and (min-width: 910px) {
     .site-header-search-form {
         display: none;
