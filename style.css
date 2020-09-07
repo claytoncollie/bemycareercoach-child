@@ -22,17 +22,17 @@ Text Domain: twentysixteen-child
 }
 
 @media screen and (min-width: 61.5625em) {
-	body:not(.search-results) article:not(.type-page) .entry-content {
+    body:not(.search-results) article:not(.type-page) .entry-content {
         float: none;
         width: 100%;
-	}
-	
-	body:not(.search-results) article:not(.type-page) .entry-footer {
+    }
+    
+    body:not(.search-results) article:not(.type-page) .entry-footer {
         float: none;
         margin-top: 0;
         width: 100%;
-	}
-	
+    }
+    
     .single .byline, .full-size-link, 
     body:not(.search-results).group-blog .byline, 
     body:not(.search-results) .entry-format, 
@@ -41,9 +41,9 @@ Text Domain: twentysixteen-child
     body:not(.search-results) article:not(.sticky) .posted-on, 
     body:not(.search-results) article:not(.type-page) .comments-link, 
     body:not(.search-results) article:not(.type-page) .entry-footer .edit-link {
-		display: inline-block;
-		margin-right: 1.5em;
-	}
+        display: inline-block;
+        margin-right: 1.5em;
+    }
 }
 
 @media screen and (min-width: 44.375em) {
@@ -54,9 +54,9 @@ Text Domain: twentysixteen-child
     .entry-summary ol, 
     .comment-content ol {
         margin-left: 1.5em;
-	}
-	.rp4wp-related-posts ul {
-		margin-left: 0;
-	}
+    }
+    .rp4wp-related-posts ul {
+        margin-left: 0;
+    }
 }
 
